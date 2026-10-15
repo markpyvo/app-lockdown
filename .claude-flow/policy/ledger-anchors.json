@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "seq": 0,
+      "length": 1,
+      "headHash": "sha256:526a6890fc2f708dec098e1685c4c86fdadb4a5360f997def8e7c815e3356b99",
+      "prevAnchorHash": null,
+      "ts": 1792085224691,
+      "event": "append",
+      "hash": "f6c21f117325026a6b338fb4bda38e2b5ffbe6f2b3cd81c10c83b8d79c7f274c"
+    }
+  ]
+}
